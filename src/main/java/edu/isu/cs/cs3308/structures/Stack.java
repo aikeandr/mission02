@@ -52,7 +52,7 @@ public interface Stack<E> {
     boolean isEmpty();
 
     /**
-     * Tranfers the contents of this stack into the provided stack. The contents
+     * Transfers the contents of this stack into the provided stack. The contents
      * of this stack are to found in reverse order at the top of the provided
      * stack. This stack should be empty once the transfer is completed. Note
      * that if the provided stack is null, nothing is to happen.

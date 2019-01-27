@@ -1,7 +1,7 @@
 package edu.isu.cs.cs3308;
 
+import edu.isu.cs.cs3308.structures.LinkedStack;
 import edu.isu.cs.cs3308.structures.Stack;
-import edu.isu.cs.cs3308.structures.impl.LinkedStack;
 
 /**
  * Stack Applications
